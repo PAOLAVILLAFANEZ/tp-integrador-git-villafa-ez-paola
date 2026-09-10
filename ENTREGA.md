@@ -12,7 +12,7 @@
 
 * Issue: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola/issues/1
 
-* Pull request: [se completará posteriormente]
+* Pull request: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola/pull/2
 
 ## Comandos principales utilizados
 
