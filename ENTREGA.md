@@ -10,7 +10,8 @@
 
 * Repositorio de GitHub: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola.git
 
-* Issue: [se completará posteriormente]
+* Issue: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola/issues/1
+
 * Pull request: [se completará posteriormente]
 
 ## Comandos principales utilizados
