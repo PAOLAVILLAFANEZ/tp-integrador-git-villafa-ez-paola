@@ -2,16 +2,14 @@
 
 ## Datos del participante
 
-* Nombre y apellido: Paola Villafañez
+* Nombre y apellido: Paola Gabriela Villafañez
 * Curso: Introducción a Git y GitHub para la Gestión de Proyectos Digitales
 * Fecha de entrega: 11/09/2026
 
 ## Enlaces
 
-* Repositorio de GitHub: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola.git
-
+* Repositorio de GitHub: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola
 * Issue: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola/issues/1
-
 * Pull request: https://github.com/PAOLAVILLAFANEZ/tp-integrador-git-villafa-ez-paola/pull/2
 
 ## Comandos principales utilizados
@@ -31,12 +29,12 @@
 
 ## Descripción del proceso
 
-Se creó una carpeta de trabajo y se inicializó un repositorio local utilizando Git. Luego se creó la estructura inicial del proyecto con los archivos README.md, ENTREGA.md y una carpeta para el proyecto. Se consultó el estado del repositorio mediante git status y se registraron los primeros cambios mediante commits. Posteriormente, el repositorio local se vinculó con GitHub y se publicó la rama main. Se completó la documentación inicial del proyecto y los cambios fueron enviados al repositorio remoto.
+Se creó la estructura del proyecto con la carpeta `proyecto/` y los archivos obligatorios, inicializando el repositorio con Git y publicando la rama principal en GitHub. Posteriormente, se creó una Issue para planificar mejoras en el diseño de la página web. Estas modificaciones se desarrollaron en una rama secundaria de trabajo llamada `mejora-pagina`. Una vez realizados y subidos los cambios, se abrió una Pull Request que vinculó la issue y se realizó el Merge hacia la rama main. Finalmente, se sincronizaron los cambios en el entorno local mediante `git pull` y se completó la documentación del proyecto.
 
 ## Dificultades encontradas
 
-Durante el proceso se presentaron algunas dudas relacionadas con los comandos de Git y el orden de los pasos necesarios para completar el trabajo. Las dificultades se fueron resolviendo mediante la consulta del estado del repositorio y la realización de cada comando de manera progresiva.
+Durante el proceso se presentaron algunas dudas sobre la navegación entre directorios dentro de la terminal (como la ubicación al ejecutar comandos desde la subcarpeta `proyecto/` en lugar de la raíz) y la sincronización entre ramas locales y remotas. Estas dificultades se resolvieron utilizando `cd ..` para subir de nivel en la terminal, verificando constantemente el estado con `git status` y actualizando la rama principal con `git pull` tras realizar el merge en GitHub.
 
 ## Reflexión final
 
-Este trabajo permitió comprender mejor el funcionamiento básico de Git y GitHub. Se aprendió a crear un repositorio, registrar cambios mediante commits, consultar el estado y publicar el proyecto en GitHub. También se comprendió la importancia de utilizar mensajes de commit claros y mantener una organización adecuada del proyecto.
+Este trabajo permitió comprender el flujo completo de trabajo profesional con Git y GitHub. Se aprendió no solo a registrar versiones con commits, sino también a organizar tareas mediante Issues, trabajar de forma aislada utilizando ramas y fusionar código a través de Pull Requests manteniendo el repositorio sincronizado y documentado.
